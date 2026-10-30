@@ -1,0 +1,6 @@
+Rene,12,MAMAA,false
+Batterbonia,13,kadita,false
+rene,10,MAMAA,false
+Renevive,11,Wheres Mama,false
+Tite kubo,15,bleach,false
+gege,16,jujutsu kaisen,false
